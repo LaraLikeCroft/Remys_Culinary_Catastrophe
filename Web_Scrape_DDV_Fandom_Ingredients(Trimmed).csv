@@ -1,0 +1,91 @@
+,Name,CookingCategory,Sell Price,Location,Sources
+0,Asparagus,Vegetables,133,Frosted Heights,"Asparagus Seed
+ Goofy's Stall"
+1,Bell Pepper,Vegetables,33,Forest of Valor,"Bell Pepper Seed
+ Goofy's Stall"
+2,Carrot,Vegetables,44,Peaceful Meadow,"Carrot Seed
+ Goofy's Stall"
+3,Chili Pepper,Vegetables,78,Sunlit Plateau,"Chili Pepper Seed
+ Goofy's Stall"
+4,Corn,Vegetables,16,Dazzle Beach,"Corn Seed
+ Goofy's Stall"
+5,Cucumber,Vegetables,159,Frosted Heights,"Cucumber Seed
+ Goofy's Stall"
+6,Eggplant,Vegetables,308,Frosted Heights,"Eggplant Seed
+ Goofy's Stall"
+7,Leek,Vegetables,309,Forgotten Lands,"Leek Seed
+ Goofy's Stall"
+8,Lettuce,Vegetables,8,Peaceful Meadow,"Lettuce Seed
+ Goofy's Stall"
+9,Mushroom,Vegetables,30,Glade of Trust,Foraging
+10,Okra,Vegetables,114,Glade of Trust,"Okra Seed
+ Goofy's Stall"
+11,Onion,Vegetables,170,Forest of Valor,"Onion Seed
+ Goofy's Stall"
+12,Potato,Vegetables,126,Forgotten Lands,"Potato Seed
+ Goofy's Stall"
+13,Pumpkin,Vegetables,664,Forgotten Lands,"Pumpkin Seed
+ Goofy's Stall"
+14,Spinach,Vegetables,41,Glade of Trust,"Spinach Seed
+ Goofy's Stall"
+15,Tomato,Vegetables,22,Dazzle Beach,"Tomato Seed
+ Goofy's Stall"
+16,Zucchini,Vegetables,52,Sunlit Plateau,"Zucchini Seed
+ Goofy's Stall"
+17,Apple,Fruit,25,"Apple Tree:
+    Forgotten Lands
+    Plaza",Goofy's Stall
+18,Banana,Fruit,29,"Banana Tree:
+    Peaceful Meadow
+    Dazzle Beach
+    Moana Realm",Goofy's Stall
+19,Blueberry,Fruit,29,"Blueberry Bush:
+    Forest of Valor
+    Dazzle Beach",Goofy's Stall
+20,Cherry,Fruit,42,"Cherry Tree:
+    Frosted Heights
+    Sunlit Plateau",Goofy's Stall
+21,Coconut,Fruit,42,"Coconut Tree:
+    Dazzle Beach
+    Moana Realm",After  Burying the Eel
+22,Coffee Bean,Fruit,36,"Coffee Bush:
+    Glade of Trust",After  Very Sleepy Stitch
+23,Dreamlight Fruit,Fruit,40,"Dreamlight Tree:
+    Sunlit Plateau",After  Seed of Memories
+24,Gooseberry,Fruit,50,"Gooseberry Bush:
+    Frosted Heights
+    Forgotten Lands",Goofy's Stall
+25,Lemon,Fruit,33,"Lemon Tree:
+    Forest of Valor
+    Glade of Trust",Goofy's Stall
+26,Raspberry,Fruit,21,"Raspberry Bush:
+    Plaza
+    Peaceful Meadow",Goofy's Stall
+27,Rice,Grains,61,Glade of Trust,"Rice Seed
+ Goofy's Stall"
+28,Wheat,Grains,2,Peaceful Meadow,"Wheat Seed
+ Goofy's Stall"
+29,Butter,Dairy and Oil,190,Chez Remy,After  A Restaurant Makeover
+30,Canola,Dairy and Oil,109,Forest of Valor,"Canola Seed
+ Goofy's Stall"
+31,Cheese,Dairy and Oil,180,Chez Remy,After  A Restaurant Makeover
+32,Egg,Dairy and Oil,220,Chez Remy,After  A Restaurant Makeover
+33,Milk,Dairy and Oil,230,Chez Remy,After  A Restaurant Makeover
+34,Peanut,Dairy and Oil,200,Chez Remy,After  Remy's Recipe Book
+35,Soya,Dairy and Oil,69,Sunlit Plateau,"Soya Seed
+ Goofy's Stall"
+36,Basil,Spices,25,Peaceful Meadow,Foraging
+37,Garlic,Spices,60,Forest of Valor,Foraging
+38,Ginger,Spices,100,Forgotten Lands,Foraging
+39,Mint,Spices,80,Frosted Heights,Foraging
+40,Oregano,Spices,20,Plaza,Foraging
+41,Cocoa Bean,Sweets,38,"Cacao Tree:
+    Sunlit Plateau
+    Glade of Trust",Goofy's Stall
+42,Sugarcane,Sweets,19,Dazzle Beach,"Sugarcane Seed
+ Goofy's Stall"
+43,Vanilla,Sweets,60,Sunlit Plateau,Foraging
+44,Slush Ice,Ice,150,Chez Remy,After  The Unknown Flavor
+45,Clam,Seafood,45,Dazzle Beach,Foraging
+46,Oyster,Seafood,250,Dazzle Beach,Foraging
+47,Scallop,Seafood,50,Dazzle Beach,Foraging

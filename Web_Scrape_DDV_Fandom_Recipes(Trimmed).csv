@@ -1,0 +1,216 @@
+,Name,Type,Stars,Ingredients
+0,Arendellian Pickled Herring,Appetizers,★★★★★,Herring Lemon Onion Garlic Any Spice
+1,Bell Pepper Puffs,Appetizers,★★★☆☆,Bell Pepper Egg Cheese
+2,Buñuelos,Appetizers,★★★★☆,Wheat Cheese Milk Egg
+3,Cheese Platter,Appetizers,★☆☆☆☆,Cheese
+4,Chili Pepper Puffs,Appetizers,★★★☆☆,Chili Pepper Egg Cheese
+5,Coffee,Appetizers,★☆☆☆☆,Coffee Bean
+6,Crackers,Appetizers,★☆☆☆☆,Any Grain
+7,Creamy Soup,Appetizers,★★★★☆,Any Spice Milk Potato Any Vegetable
+8,Crudités,Appetizers,★☆☆☆☆,"Any Vegetable
+
+ Bell Pepper
+ Carrot
+ Cucumber
+ Mushroom
+ Zucchini"
+9,Dream Fizz,Appetizers,★★★★☆,Dreamlight Fruit Sugarcane Wheat Slush Ice
+10,Eggplant Puffs,Appetizers,★★★☆☆,Eggplant Egg Cheese
+11,French Fries,Appetizers,★★☆☆☆,Canola Potato
+12,Gazpacho,Appetizers,★★★★☆,Cucumber Tomato Onion Any Spice
+13,Green Salad,Appetizers,★★☆☆☆,Any Vegetable Lettuce
+14,Grilled Vegetables,Appetizers,★☆☆☆☆,"Any Vegetable
+
+ Asparagus
+ Chili Pepper
+ Corn
+ Eggplant
+ Onion
+ Pumpkin
+ Seaweed
+ Spinach"
+15,Grilled Veggie Platter,Appetizers,★★★☆☆,Any Vegetable Any Vegetable Any Vegetable
+16,Hard-Boiled Eggs,Appetizers,★☆☆☆☆,Egg
+17,Large Seafood Platter,Appetizers,★★★★★,Any Seafood Any Seafood Any Seafood Any Seafood Lemon
+18,Latte,Appetizers,★★☆☆☆,Coffee Bean Milk
+19,Mocha,Appetizers,★★★☆☆,Coffee Bean Milk Cocoa Bean
+20,Okra Soup,Appetizers,★☆☆☆☆,Okra
+21,Onion Puffs,Appetizers,★★★☆☆,Onion Egg Cheese
+22,Oyster Platter,Appetizers,★★☆☆☆,Oyster Lemon
+23,Peppermint Tea,Appetizers,★★☆☆☆,Lemon Mint
+24,Pickled Herring,Appetizers,★★★★☆,Herring Lemon Onion Any Spice
+25,Potato Leek Soup,Appetizers,★★★★★,Leek Potato Milk Onion Garlic
+26,Potato Puffs,Appetizers,★★★☆☆,Potato Egg Cheese
+27,Pottage,Appetizers,★★★☆☆,Potato Any Spice Any Vegetable
+28,Pumpkin Puffs,Appetizers,★★★☆☆,Pumpkin Egg Cheese
+29,Pumpkin Soup,Appetizers,★★★★☆,Any Vegetable Milk Ginger Pumpkin
+30,Purée,Appetizers,★☆☆☆☆,Potato
+31,Roasted Asparagus,Appetizers,★★☆☆☆,Asparagus Canola
+32,Salad,Appetizers,★☆☆☆☆,Lettuce
+33,Sautéed Mushrooms,Appetizers,★★☆☆☆,Mushroom Butter
+34,Seafood Appetizer,Appetizers,★☆☆☆☆,Any Seafood
+35,Seafood Platter,Appetizers,★★☆☆☆,Any Seafood Any Seafood
+36,Soufflé,Appetizers,★★★★☆,Cheese Egg Milk Butter
+37,Sweet Herring,Appetizers,★★☆☆☆,Herring Onion
+38,Tomato Soup,Appetizers,★☆☆☆☆,Tomato
+39,Vegetable Soup,Appetizers,★★☆☆☆,Any Vegetable Any Vegetable
+40,Zucchini Puffs,Appetizers,★★★☆☆,Zucchini Egg Cheese
+41,Apple-Cider-Glazed Salmon,Entrées,★★★☆☆,Salmon Sugarcane Apple
+42,Baked Carp,Entrées,★★☆☆☆,Carp Butter
+43,Basil Omelet,Entrées,★★★★☆,Basil Egg Cheese Milk
+44,Bouillabaisse,Entrées,★★★★★,Any Seafood Any Seafood Shrimp Tomato Any Vegetable
+45,Carp Salad,Entrées,★★★☆☆,Carp Lemon Lettuce
+46,Cheesy Crispy Baked Cod,Entrées,★★★☆☆,Cod Wheat Cheese
+47,Chowder,Entrées,★★★★☆,Any Seafood Milk Potato Any Vegetable
+48,Creamy Garlic Scallops,Entrées,★★★★☆,Scallop Lemon Butter Garlic
+49,Crispy Baked Cod,Entrées,★★☆☆☆,Cod Wheat
+50,Fish Creole,Entrées,★★★★★,Any Fish Any Vegetable Garlic Rice Tomato
+51,Fish 'n' Chips,Entrées,★★★★☆,Any Fish Wheat Canola Potato
+52,Fish Pasta,Entrées,★★★★☆,Any Fish Garlic Wheat Milk
+53,Fish Pie,Entrées,★★★☆☆,Any Fish Wheat Butter
+54,Fish Risotto,Entrées,★★★☆☆,Any Fish Rice Butter
+55,Fish Salad,Entrées,★★★☆☆,Any Fish Lemon Lettuce
+56,Fish Sandwiches,Entrées,★★☆☆☆,Any Fish Wheat
+57,Fish Soup,Entrées,★★★☆☆,Any Fish Any Vegetable Milk
+58,Fish Steak,Entrées,★★★☆☆,Any Fish Tomato Basil
+59,Fish Tacos,Entrées,★★★★☆,Any Fish Corn Chili Pepper Cheese
+60,Fugu Sushi,Entrées,★★★☆☆,Fugu Rice Seaweed
+61,Ghostly Fish Steak,Entrées,★★★★★,Here and There Fish Lemon Asparagus Bell Pepper Oregano
+62,Greek Pizza,Entrées,★★★★★,Any Spice Tomato Onion Cheese Wheat
+63,Grilled Fish,Entrées,★☆☆☆☆,Any Fish
+64,Grilled Fish Entree,Entrées,★★☆☆☆,Any Fish Any Vegetable
+65,Gumbo,Entrées,★★★★★,Okra Shrimp Chili Pepper Tomato Onion
+66,Hearty Salad,Entrées,★★★☆☆,Any Vegetable Lettuce Any Vegetable
+67,Hors d'Oeuvres,Entrées,★☆☆☆☆,Any Spice
+68,Kappa Maki,Entrées,★★★☆☆,Seaweed Cucumber Rice
+69,Kronk's Spinach Puffs,Entrées,★★★☆☆,Spinach Cheese Canola
+70,Lancetfish Paella,Entrées,★★★★★,Lancetfish Shrimp Any Seafood Tomato Rice
+71,Leek Soup,Entrées,★☆☆☆☆,Leek
+72,Lemon Garlic Swordfish,Entrées,★★★☆☆,Swordfish Garlic Lemon
+73,Lioness Feast,Entrées,★★★★☆,Mushroom Tomato Oregano Here and There Fish
+74,Lobster Roll,Entrées,★★★★★,Lobster Wheat Lemon Butter Garlic
+75,Maguro Sushi,Entrées,★★★★☆,Tuna Seaweed Rice Ginger
+76,Maki,Entrées,★★★☆☆,Any Fish Seaweed Rice
+77,Margherita Pizza,Entrées,★★★★☆,Any Spice Tomato Cheese Wheat
+78,Marvelous Jam,Entrées,★★☆☆☆,Dreamlight Fruit Wheat
+79,Mediterranean Salad,Entrées,★★★★★,Cucumber Tomato Onion Lettuce Any Spice
+80,Mushroom Pizza,Entrées,★★★★☆,Mushroom Wheat Tomato Cheese
+81,Mushu's Congee,Entrées,★★★★★,Rice Egg Mushroom Garlic Ginger
+82,Omelet,Entrées,★★★☆☆,Egg Cheese Milk
+83,Pan-Fried Angler Fish,Entrées,★★★★☆,Anglerfish Tomato Zucchini Potato
+84,Pan-Seared Bass & Vegetables,Entrées,★★★☆☆,Bass Any Vegetable Any Vegetable
+85,Pan-Seared Tilapia & Vegetables,Entrées,★★★☆☆,Tilapia Any Vegetable Any Vegetable
+86,Pasta,Entrées,★★☆☆☆,Wheat Tomato
+87,Peanut Butter Sandwich,Entrées,★★☆☆☆,Peanut Wheat
+88,Pizza,Entrées,★★★☆☆,Tomato Cheese Wheat
+89,Poached Basil-Butter Sturgeon,Entrées,★★★★☆,White Sturgeon Basil Lemon Butter
+90,Porridge,Entrées,★★☆☆☆,Milk Wheat
+91,Porridge with Fruits,Entrées,★★★☆☆,Milk Wheat Any Fruit
+92,Ranch Salad,Entrées,★★★★★,Lettuce Bell Pepper Corn Tomato Onion
+93,Ratatouille,Entrées,★★★★★,Tomato Eggplant Onion Zucchini Any Spice
+94,Sake Maki,Entrées,★★★☆☆,Rice Seaweed Salmon
+95,Sake Sushi,Entrées,★★☆☆☆,Salmon Rice
+96,Savory Fish,Entrées,★★☆☆☆,Any Fish Lemon
+97,Scrambled Egg,Entrées,★★☆☆☆,Egg Cheese
+98,Seafood Pasta,Entrées,★★★☆☆,Any Seafood Wheat Milk
+99,Seafood Pie,Entrées,★★★☆☆,Any Seafood Wheat Butter
+100,Seafood Salad,Entrées,★★☆☆☆,Any Seafood Lettuce
+101,Seafood Soup,Entrées,★★★☆☆,Any Seafood Any Vegetable Any Vegetable
+102,Seared Rainbow Trout,Entrées,★★★☆☆,Rainbow Trout Tomato Onion
+103,Simple Fried Perch,Entrées,★★★☆☆,Perch Wheat Butter
+104,Smoked Peanuts and Anglerfish,Entrées,★★☆☆☆,Anglerfish Peanut
+105,Sole Meunière,Entrées,★★★★☆,Sole Wheat Butter Lemon
+106,Spaghetti Arrabbiata,Entrées,★★★☆☆,Tomato Wheat Chili Pepper
+107,Spicy Baked Bream,Entrées,★★★☆☆,Bream Chili Pepper Butter
+108,Steamed Fugu,Entrées,★★★☆☆,Fugu Ginger Garlic
+109,Sushi,Entrées,★★☆☆☆,Any Fish Rice
+110,Sweet & Sour Kingfish Steak,Entrées,★★★☆☆,Kingfish Sugarcane Lemon
+111,Sweet Udon,Entrées,★★★★☆,Dreamlight Fruit Rice Any Seafood Any Sweet
+112,Tamagoyaki,Entrées,★★☆☆☆,Egg Sugarcane
+113,Tasty Salad,Entrées,★★★★☆,Lettuce Cucumber Any Vegetable Any Spice
+114,Tasty Veggies,Entrées,★★☆☆☆,Any Vegetable Any Spice
+115,Tekka Maki,Entrées,★★★★☆,Tuna Soya Seaweed Rice
+116,Teriyaki Salmon,Entrées,★★★★★,Soya Salmon Sugarcane Rice Ginger
+117,Tuna Burger,Entrées,★★★★★,Tuna Onion Lemon Wheat Any Vegetable
+118,Vegetarian Pizza,Entrées,★★★★★,Any Vegetable Any Vegetable Tomato Cheese Wheat
+119,Vegetarian Stew,Entrées,★★★☆☆,Potato Carrot Onion
+120,Vegetarian Taco,Entrées,★★★★☆,Corn Chili Pepper Cheese Any Vegetable
+121,Veggie Casserole,Entrées,★★★★☆,Any Vegetable Any Vegetable Cheese Any Spice
+122,Veggie Pasta,Entrées,★★★☆☆,Tomato Wheat Any Vegetable
+123,Veggie Pie,Entrées,★★★☆☆,Any Vegetable Butter Wheat
+124,Veggie Skewers,Entrées,★★★★☆,Mushroom Zucchini Onion Bell Pepper
+125,Walleye en Papillote,Entrées,★★★★☆,Walleye Basil Oregano Any Vegetable
+126,"""My Hero"" Cookie",Desserts,★★★☆☆,Wheat Butter Any Sweet
+127,Apple Pie,Desserts,★★★☆☆,Apple Wheat Butter
+128,Apple Sorbet,Desserts,★★★☆☆,Slush Ice Apple Sugarcane
+129,Aurora's Cake,Desserts,★★★★★,Wheat Sugarcane Egg Any Fruit Milk
+130,Banana Ice Cream,Desserts,★★★★☆,Slush Ice Banana Milk Sugarcane
+131,Banana Pie,Desserts,★★★☆☆,Banana Wheat Butter
+132,Banana Split,Desserts,★★★★★,Slush Ice Banana Milk Sugarcane Any Sweet
+133,Beignets,Desserts,★★★★☆,Canola Wheat Egg Sugarcane
+134,Berry Salad,Desserts,★★★☆☆,Raspberry Blueberry Gooseberry
+135,Birthday Cake,Desserts,★★★★★,Cocoa Bean Wheat Sugarcane Egg Butter
+136,Biscuits,Desserts,★★★☆☆,Wheat Sugarcane Butter
+137,Blueberry Pie,Desserts,★★★☆☆,Blueberry Wheat Butter
+138,Boba Tea,Desserts,★★☆☆☆,Sugarcane Milk
+139,Candy,Desserts,★☆☆☆☆,Any Sweet
+140,Caramel Apples,Desserts,★★☆☆☆,Sugarcane Apple
+141,Carrot Cake,Desserts,★★★★☆,Carrot Wheat Egg Sugarcane
+142,Cheesecake,Desserts,★★★★☆,Cheese Wheat Sugarcane Any Fruit
+143,Cherry Pie,Desserts,★★★☆☆,Cherry Wheat Butter
+144,Chocolate Chip Cookies,Desserts,★★★★☆,Cocoa Bean Wheat Sugarcane Butter
+145,Chocolate Ice Cream,Desserts,★★★★☆,Cocoa Bean Sugarcane Milk Slush Ice
+146,Chocolate Waffles,Desserts,★★★★☆,Cocoa Bean Wheat Egg Milk
+147,Coconut Boba Tea,Desserts,★★★☆☆,Sugarcane Milk Coconut
+148,Coconut Cake,Desserts,★★★★☆,Coconut Wheat Egg Sugarcane
+149,Coconut Ice Cream,Desserts,★★★★☆,Slush Ice Milk Sugarcane Coconut
+150,Crepe,Desserts,★★★★☆,Wheat Egg Milk Vanilla
+151,Dream Ice Cream,Desserts,★★★☆☆,Dreamlight Fruit Milk Slush Ice
+152,Fruit Salad,Desserts,★☆☆☆☆,Any Fruit
+153,Fruit Sorbet,Desserts,★★☆☆☆,Slush Ice Any Fruit
+154,Fruitcake,Desserts,★★★★☆,Wheat Any Fruit Any Fruit Any Fruit
+155,Gingerbread House,Desserts,★★★★★,Wheat Ginger Sugarcane Vanilla Egg
+156,Gooseberry Boba Tea,Desserts,★★★☆☆,Sugarcane Milk Gooseberry
+157,Gray Stuff,Desserts,★★★☆☆,Any Dairy or Oil Sugarcane Cocoa Bean
+158,Hot Cocoa,Desserts,★★★☆☆,Sugarcane Milk Cocoa Bean
+159,Ice Cream,Desserts,★★★☆☆,Slush Ice Milk Sugarcane
+160,Jam Waffles,Desserts,★★★★☆,Any Fruit Wheat Egg Milk
+161,Lemon Sorbet,Desserts,★★☆☆☆,Slush Ice Lemon
+162,Meringue Pie,Desserts,★★★★☆,Lemon Wheat Egg Butter
+163,Minnie's Gingerbread Cookies,Desserts,★★☆☆☆,Wheat Ginger
+164,Mint Boba Tea,Desserts,★★★☆☆,Sugarcane Milk Mint
+165,Mint Candy,Desserts,★★☆☆☆,Mint Sugarcane
+166,Mint Chocolate,Desserts,★★★★☆,Mint Sugarcane Butter Cocoa Bean
+167,Mint Sorbet,Desserts,★★☆☆☆,Slush Ice Mint
+168,Pastry Cream and Fruits,Desserts,★★★★★,Any Fruit Any Fruit Any Fruit Milk Sugarcane
+169,Pawpsicle,Desserts,★★★☆☆,Slush Ice Sugarcane Any Fruit
+170,Peanut Butter Waffles,Desserts,★★★★☆,Peanut Wheat Egg Milk
+171,Plain Snow Cones,Desserts,★☆☆☆☆,
+172,Raspberry Boba Tea,Desserts,★★★☆☆,Sugarcane Milk Raspberry
+173,Red Fruit Pie,Desserts,★★★☆☆,"Any Fruit
+
+ Coconut
+ Coffee Bean
+ Lemon
+ Raspberry
+ Wheat
+ Butter"
+174,Red Fruit Sorbet,Desserts,★★★★☆,Slush Ice Raspberry Gooseberry Sugarcane
+175,Root Beer,Desserts,★★★☆☆,Ginger Sugarcane Vanilla
+176,Shake,Desserts,★☆☆☆☆,Any Dairy or Oil
+177,Snow White's Gooseberry Pie,Desserts,★★★☆☆,Gooseberry Wheat Butter
+178,Sour Snow Cones,Desserts,★★★☆☆,Slush Ice Lemon Sugarcane
+179,Spring Chocolate,Desserts,★★★☆☆,Spring V-EGG-etable Sugarcane Cocoa Bean
+180,Spring Egg Bowl,Desserts,★★★★★,Egg-cellent Fruit Spring V-EGG-etable Wild Spring Egg Cocoa Bean Sugarcane
+181,Spring Mimosa Eggs,Desserts,★★★★☆,Spring V-EGG-etable Wild Spring Egg Egg-cellent Fruit Basil
+182,Sweet Slush,Desserts,★★☆☆☆,Slush Ice Any Sweet
+183,Tropical Pop,Desserts,★★★★☆,Slush Ice Any Fruit Sugarcane Coconut
+184,Vanilla Ice Cream,Desserts,★★★★☆,Slush Ice Milk Sugarcane Vanilla
+185,Waffles,Desserts,★★★★☆,"Wheat
+ Milk
+ Egg
+ Any Sweet ( Sugarcane only)"
+186,Wedding Cake,Desserts,★★★★★,Butter Sugarcane Vanilla Egg Wheat
+187,Whimsical Pie,Desserts,★★★☆☆,Dreamlight Fruit Wheat Butter
+188,Wonderland Cookies,Desserts,★★★★☆,Butter Sugarcane Vanilla Wheat
+189,Yule Log,Desserts,★★★★☆,Wheat Cocoa Bean Vanilla Cherry
